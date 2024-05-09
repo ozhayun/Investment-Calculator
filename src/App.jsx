@@ -1,6 +1,10 @@
+import Header from '../src/Components/Header'
+
 function App() {
   return (
-    <h1 id={"header"}>React Investment Calculator</h1>
+    <div>
+      <Header />
+    </div>
   )
 }
 
