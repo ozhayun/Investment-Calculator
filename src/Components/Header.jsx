@@ -3,8 +3,8 @@ function Header () {
 
     return (
         <div id="header">
-            <img src={imgSrc} id={"header"} alt={"image"}/>
-            <h1 id={"header"}>Investment Calculator</h1>
+            <img src={imgSrc} alt={"image"}/>
+            <h1>Investment Calculator</h1>
         </div>
     )
 }
